@@ -1,4 +1,5 @@
-# Título: 
+# Título
+
 Higher Order Networks and Discrete Differential Geometry 
 (Redes de Ordenes Superior y Geometría Diferencial Discreta)
 
