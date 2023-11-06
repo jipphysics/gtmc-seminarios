@@ -11,4 +11,4 @@
 
 * [2023-05-17, Higher Order Networks and Discrete Differential Geometry, Juan I. Perotti, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-05-17/resumen.md)
 
-* [2023-11-06, Simetrías latentes de grafos y Hamiltonianos efectivos con aplicación al modelo SSH, Federico Pont, GTMC, FAMAF-UNC](TODO)
+* [2023-11-06, Simetrías latentes de grafos y Hamiltonianos efectivos con aplicación al modelo SSH, Federico Pont, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-11-06/resumen.md)
