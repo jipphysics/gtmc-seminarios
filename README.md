@@ -1,5 +1,7 @@
 # Seminarios del GTMC
 
+* [2023-11-20, Estados topológicos en cadenas de espines y en nano-estructuras semiconductoras, para qué sirven, cómo aparecen y cómo se los reconoce, Omar Osenda, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-11-20/resumen.md)
+
 * [2023-11-06, Simetrías latentes de grafos y Hamiltonianos efectivos con aplicación al modelo SSH, Federico Pont, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-11-06/resumen.md)
 
 * [2023-10-11, Resolución de la Ecuación de Schrödinger Independiente del Tiempo y Exploración de Propiedades Cuánticas Utilizando `Gridap.jl`, Martín Mendez, GTMC, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-10-11/resumen.md)
