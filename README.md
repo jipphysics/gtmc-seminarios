@@ -1,5 +1,11 @@
 # Seminarios del GTMC
 
+## 2024
+
+* [2024-04-03, Multiscale unfolding of real networks by geometric renormalization, Juan I. Perotti, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-04-03/resumen.md)
+
+## 2023
+
 * [2023-12-13, Breve introducción a la asimilación de datos y su aplicación a modelos epidemiológicos, Santiago Rosa, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-12-13/resumen.md)
 
 * [2023-11-20, Estados topológicos en cadenas de espines y en nano-estructuras semiconductoras, para qué sirven, cómo aparecen y cómo se los reconoce, Omar Osenda, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2023/2023-11-20/resumen.md)
