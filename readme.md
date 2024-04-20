@@ -2,6 +2,8 @@
 
 ## 2024
 
+* [2024-04-24, Criticalidad celular, Sergio A. Cannas, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-04-24/resumen.md)
+
 * [2024-04-10, Multiscale unfolding of real networks by geometric renormalization, Juan I. Perotti, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-04-10/resumen.md)
 
 ## 2023
