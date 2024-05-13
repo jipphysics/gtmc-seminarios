@@ -13,5 +13,5 @@ La disciplina de redes complejas ha alcanzado una relativa madurez. Nuevos horiz
 
 ## Referencias
 
-* [1] Grady, Leo J., and Jonathan R. Polimeni. Discrete calculus: Applied analysis on graphs for computational science. Vol. 3. London: Springer, 2010.
-* [2] Bianconi, Ginestra. Higher-order networks. Cambridge University Press, 2021.
+[1] Grady, Leo J., and Jonathan R. Polimeni. Discrete calculus: Applied analysis on graphs for computational science. Vol. 3. London: Springer, 2010. <br/>
+[2] Bianconi, Ginestra. Higher-order networks. Cambridge University Press, 2021. <br/>
