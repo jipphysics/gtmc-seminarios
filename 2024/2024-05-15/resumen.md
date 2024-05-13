@@ -13,6 +13,9 @@ Una de las ideas más novedosas que introduce la econofísica consiste en aplica
 # Referencias
 
 [1] B. K. Chakrabarti, A. Chakraborti, S. R. Chakravarty, and Econophysics of income and wealth distributions. Cambridge University Press, 2013.
+
 [2] B. M. Boghosian, A. Devitt-Lee, M. Johnson, J. Li, J. A. Marcq, and H. Wang. Oligarchy as a phase transition: The effect of wealth-attained advantage in a fokker–planck description of asset exchange. Phys. A, 476:15–37, 2017.
+
 [3] J. Li, B. M. Boghosian, and C. Li. The affine wealth model: An agent-based model of asset exchange that allows for negative-wealth agents and its empirical validation. Phys. A, 516:423–442, 2019.
+
 [4] M. E. J. Newman. Networks: An Introduction. Oxford University Press, 2010.
