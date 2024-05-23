@@ -11,7 +11,7 @@ Lic. Martín Méndez, IFEG-CONICET, FaMAF-UNC
 * Seminario de Doctorado
 * Fecha: Miércoles, 29 mayo 2024 a las XX:XX
 * Lugar: Aula Magna
-* Director: Pont Federico M.
+* Director: Federico M. Pont
 
 ## Resumen 
 
