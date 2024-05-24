@@ -9,8 +9,8 @@ Lic. Martín Méndez, IFEG-CONICET, FaMAF-UNC
 ## Evento, Fecha y Lugar
 
 * Seminario de Doctorado
-* Fecha: Miércoles, 29 mayo 2024 a las XX:XX
-* Lugar: Aula Magna
+* Fecha: Miércoles, 29 mayo 2024 de las 14:30h a las 15:30h.
+* Lugar: Aula Magna.
 * Director: Federico M. Pont
 
 ## Resumen 
@@ -28,5 +28,3 @@ En 1954 Robert H. Dicke propuso el concepto de *Superradiancia* [1], que describ
 [7] Zhu, Chenglian, Simon C. Boehme, Leon G. Feld, Anastasiia Moskalenko, Dmitry N. Dirin, Rainer F. Mahrt, Thilo Stöferle et al. "Single-photon superradiance in individual caesium lead halide quantum dots." Nature 626, no. 7999 (2024): 535-541. <br/>
 [8] Kirton, Peter, Mor M. Roses, Jonathan Keeling, and Emanuele G. Dalla Torre. "Introduction to the Dicke model: From equilibrium to nonequilibrium, and vice versa." Advanced Quantum Technologies 2, no. 1-2 (2019): 1800043. <br/>
 [9] Masson, Stuart J., and Ana Asenjo-Garcia. "Universality of Dicke superradiance in arrays of quantum emitters." Nature Communications 13, no. 1 (2022): 2285. <br/>
-
-
