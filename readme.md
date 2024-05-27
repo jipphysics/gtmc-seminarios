@@ -4,7 +4,6 @@
 
 * [2024-05-29, Explorando la Superradiancia: Teoría, Experimentos y Aplicaciones, Martín Mendez, IFEG-CONICET, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-05-29/resumen.md)
 
-
 * [2024-05-13, Criticalidad en modelos de distribución de riquezas basados en agentes sobre redes complejas, Nicolás Vazquez, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-05-15/resumen.md)
 
 * [2024-04-24, Criticalidad celular, Sergio A. Cannas, GTMC, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-04-24/resumen.md)
