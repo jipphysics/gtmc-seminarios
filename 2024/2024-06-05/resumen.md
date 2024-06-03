@@ -9,7 +9,7 @@ Lic. Gabriel Della Bella, IFEG-CONICET, FaMAF-UNC
 ## Evento, Fecha y Lugar
 
 * Seminario de Doctorado
-* Fecha: Miércoles, 5 de Mayo de 2024 de 14:30h a las 15:30h.
+* Fecha: Miércoles, 5 de Junio de 2024 de 14:30h a las 15:30h.
 * Lugar: Aula Magna.
 * Director: Walter Lamberti
 
