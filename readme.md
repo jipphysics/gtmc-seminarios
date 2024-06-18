@@ -2,7 +2,7 @@
 
 ## 2024
 
-* []()
+* [2024-06-18, Quantum Circuit Learning: Un framework híbrido para la implementación de Machine Learning en procesadores cuánticos, Lic. Sofía Perón Santana, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-18/resumen.md)
 
 * [2024-06-05, Modelos computacionales del cerebro para una medicina personalizada, Lic. Gabriel Della Bella, IFEG-CONICET, FaMAF-UNC, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-05/resumen.md)
 
