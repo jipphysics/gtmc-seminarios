@@ -2,6 +2,8 @@
 
 ## 2024
 
+* []()
+
 * [2024-06-05, Modelos computacionales del cerebro para una medicina personalizada, Lic. Gabriel Della Bella, IFEG-CONICET, FaMAF-UNC, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-05/resumen.md)
 
 * [2024-05-29, Explorando la Superradiancia: Teoría, Experimentos y Aplicaciones, Martín Mendez, IFEG-CONICET, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-05-29/resumen.md)
