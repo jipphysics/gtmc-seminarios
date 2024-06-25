@@ -2,9 +2,11 @@
 
 ## 2024
 
-* [2024-06-19, Quantum Circuit Learning: Un framework híbrido para la implementación de Machine Learning en procesadores cuánticos, Lic. Sofía Perón Santana, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-19/resumen.md)
+* [2024-07-03, Efecto Doppler rotacional sobre un ion atrapado dentro de un haz tipo "dona", Cecilia Cormick, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-07-03/resumen.md)
 
-* [2024-06-05, Modelos computacionales del cerebro para una medicina personalizada, Lic. Gabriel Della Bella, IFEG-CONICET, FaMAF-UNC, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-05/resumen.md)
+* [2024-06-19, Quantum Circuit Learning: Un framework híbrido para la implementación de Machine Learning en procesadores cuánticos, Sofía Perón Santana, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-19/resumen.md)
+
+* [2024-06-05, Modelos computacionales del cerebro para una medicina personalizada, Gabriel Della Bella, IFEG-CONICET, FaMAF-UNC, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-05/resumen.md)
 
 * [2024-05-29, Explorando la Superradiancia: Teoría, Experimentos y Aplicaciones, Martín Mendez, IFEG-CONICET, FaMAF-UNC, Aula Magna](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-05-29/resumen.md)
 
