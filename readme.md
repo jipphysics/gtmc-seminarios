@@ -2,6 +2,8 @@
 
 ## 2024
 
+* [2024-07-31, Comportamiento tricrítico en un modelo neuronal, Joaquín Almeira, IFEG-CONICET, FaMAF-UNC]()
+
 * [2024-07-03, Efecto Doppler rotacional sobre un ion atrapado dentro de un haz tipo "dona", Cecilia Cormick, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-07-03/resumen.md)
 
 * [2024-06-19, Quantum Circuit Learning: Un framework híbrido para la implementación de Machine Learning en procesadores cuánticos, Sofía Perón Santana, IFEG-CONICET, FaMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-06-19/resumen.md)
