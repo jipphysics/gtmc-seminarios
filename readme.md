@@ -2,7 +2,7 @@
 
 ## 2024
 
-* [2024-11-06, Transferencia de estados cuánticos en sistemas de spines, Dr. Pablo Serra, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-11-06/resumen.md)
+* [2024-11-13, Transferencia de estados cuánticos en sistemas de spines, Dr. Pablo Serra, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-11-13/resumen.md)
 
 * [2024-09-25, Todo lo que creemos saber sobre el citoesqueleto de actina-espectrina asociado a membrana de axones, y todo lo que seguro todavía no sabemos, Dr. Nicolás Unsain, INIMEC-CONICET, FCEFyN-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-09-25/resumen.md)
 
