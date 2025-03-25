@@ -2,7 +2,7 @@
 
 ## 2025
 
-* [2025-03-26, De Ecuaciones Maestras a Teorías de Campo: el formalismo de Doi-Peliti, Dr. Juan I. Perotti, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2025/2025-03-26/resumen.md)
+* [2025-04-02, De Ecuaciones Maestras a Teorías de Campo: el formalismo de Doi-Peliti, Dr. Juan I. Perotti, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2025/2025-04-02/resumen.md)
 
 ## 2024
 
