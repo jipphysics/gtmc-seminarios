@@ -1,5 +1,9 @@
 # Seminarios del GTMC
 
+## 2025
+
+* [2025-03-26, De Ecuaciones Maestras a Teorías de Campo: el formalismo de Doi-Peliti, Dr. Juan I. Perotti, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2025/2025-03-26/resumen.md)
+
 ## 2024
 
 * [2024-11-13, Transferencia de estados cuánticos en sistemas de spines, Dr. Pablo Serra, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2024/2024-11-13/resumen.md)
