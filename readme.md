@@ -1,8 +1,10 @@
 # Seminarios del GTMC
 
+Viernes de por medio a las 14:30h en la sala de Física Teórica.
+
 ## 2025
 
-* [2025-04-09, De Ecuaciones Maestras a Teorías de Campo: el formalismo de Doi-Peliti, Dr. Juan I. Perotti, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2025/2025-04-09/resumen.md)
+* [2025-04-11, De Ecuaciones Maestras a Teorías de Campo: el formalismo de Doi-Peliti, Dr. Juan I. Perotti, IFEG-CONICET, FAMAF-UNC](https://github.com/jipphysics/gtmc-seminarios/blob/main/2025/2025-04-11/resumen.md)
 
 ## 2024
 
